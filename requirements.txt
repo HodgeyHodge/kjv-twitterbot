@@ -1,0 +1,3 @@
+hodgeys_kjv_db
+tweepy
+pillow
